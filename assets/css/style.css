@@ -299,7 +299,7 @@ a {
 
 .feature .info strong {
     color: #767e7e;
-    font-size: 1.2rem;
+    font-size: 12px;
     font-weight: 700;
 }
 
@@ -340,7 +340,7 @@ a {
 }
 
 /* ======= Popular ============= */
-.polular .info strong {
+.popular .info strong {
     color: #767e7e;
     font-size: 1.2rem;
     font-weight: 700;
